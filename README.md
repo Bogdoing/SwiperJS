@@ -1,4 +1,7 @@
 # Bogdoing-SwiperJS
+
+<i> This library is designed for quick and easy creation of a web slider </i>
+
 <ul>
   <li> swiper.J.js - Library using Jquery </li>
   <li> swiper.js - Library without using Jquery </li>
